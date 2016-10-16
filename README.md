@@ -9,7 +9,7 @@ The screenshots are taken without the transparency!
 
 ### Install
 
-1. Open HyperTerm's preferences with `Cmd+,` (or manually at `~/.hyperterm.js`) with your editor.
+1. Open HyperTerm's preferences with `Cmd+,` (or manually at `~/.hyper.js`) with your editor.
 2. Update your list of plugins to include `hyper-atom-dark-transparent`, like so:
   
   ```js
