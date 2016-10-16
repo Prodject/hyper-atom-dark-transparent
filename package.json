@@ -1,6 +1,6 @@
 {
   "name": "hyper-atom-dark-transparent",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Hyper theme based on the hyperterm-atom-dark, but with transparency.",
   "main": "index.js",
   "repository": "https://github.com/simonmeusel/hyperterm-atom-dark",
