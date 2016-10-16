@@ -1,15 +1,16 @@
 {
-  "name": "hyperterm-atom-dark",
+  "name": "hyper-atom-dark-transparent",
   "version": "1.1.2",
-  "description": "Hyperterm theme based on Atom One Dark theme",
+  "description": "Hyper theme based on the hyperterm-atom-dark, but with transparency.",
   "main": "index.js",
-  "repository": "https://github.com/mdo/hyperterm-atom-dark.git",
+  "repository": "https://github.com/simonmeusel/hyperterm-atom-dark",
   "keywords": [
-    "hyperterm",
-    "hyperterm-theme",
+    "hyper",
+    "hyper-theme",
     "colors",
+    "transparent",
     "atom"
   ],
-  "author": "Mark Otto",
+  "author": "Simon Meusel",
   "license": "MIT"
 }
