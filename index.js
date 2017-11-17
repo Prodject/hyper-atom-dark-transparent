@@ -37,6 +37,13 @@ exports.decorateConfig = config => {
         mix-blend-mode: difference;
         border-left-width: 2px;
       }
+      ::-webkit-scrollbar {
+        width: 4px;
+      }
+      ::-webkit-scrollbar-thumb {
+        border-radius: 5px;
+        background-color: #3c424e;
+      }
     `,
     css: `
       ${config.css || ''}
@@ -48,6 +55,9 @@ exports.decorateConfig = config => {
       .tabs_list {
         background-color: #21252b !important;
         border-bottom-color: #181a1f !important;
+      }
+      .splitpane_divider {
+        background-color: rgba(171, 178, 191, 0.15) !important;
       }
       .tab_tab {
         font-weight: 500;
